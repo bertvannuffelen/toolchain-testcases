@@ -1,0 +1,14 @@
+[  {
+    "name": "test-toolchain1",
+    "type": "ap",
+    "eap": "UitbreidingToolchain.EAP",
+    "diagram": "OSLO-DCATAPVL",
+    "template": "ap.j2",
+    "title": "test toolchain 1",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "test",
+    "site": "site-skeleton"
+ }
+]
